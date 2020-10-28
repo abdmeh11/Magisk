@@ -1,7 +1,7 @@
 ﻿{
   "app": {
-    "version": "7.5.1",
-    "versionCode": "267",
+    "version": "7.3.5",
+    "versionCode": "243",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.3.5/MagiskManager-v7.3.5.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7db523071d662dcc8eb187e3cbae141c716ba045/app/src/main/res/raw/changelog.md"
   },
@@ -10,7 +10,7 @@
   },
   "magisk": {
     "version": "19.4",
-    "versionCode": "20299",
+    "versionCode": "19004",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.4/Magisk-v19.4.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
     "md5": "088fb6545e7042a4939bda7d21423b8b"
